@@ -1,0 +1,19 @@
+{
+	"name": "URL replacement for KB and iKB",
+	"version": "1.0.0",
+	"manifest_version": 3,
+	"description": "Change URL KB and iKB",
+	"background": {
+		"service_worker": "background.js"
+	},
+	"action": {
+		"default_title": "Change URL iKB ⇔ KB"
+	},
+	"permissions": [
+		"tabs",
+		"background"
+	],
+	"host_permissions": [
+		"https://*.vmware.com/s/article/"
+	]
+}
