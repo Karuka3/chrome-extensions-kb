@@ -8,11 +8,10 @@
 	},
 	"action": {
 		"default_title": "Change URL iKB ⇔ KB",
-		"default_icon": "images/16px.png",
+		"default_icon": "images/16px_reverse.png",
 		"icons": {
 			"16": "images/16px.png",
-			"48": "images/48px.png",
-			"128": "images/128px.png"
+			"48": "images/48px.png"
 		}
 	},
 	"permissions": [
