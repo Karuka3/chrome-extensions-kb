@@ -8,6 +8,7 @@
 	},
 	"action": {
 		"default_title": "Change URL iKB ⇔ KB",
+		"default_icon": "images/16px.png",
 		"icons": {
 			"16": "images/16px.png",
 			"48": "images/48px.png",
