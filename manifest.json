@@ -7,7 +7,12 @@
 		"service_worker": "background.js"
 	},
 	"action": {
-		"default_title": "Change URL iKB ⇔ KB"
+		"default_title": "Change URL iKB ⇔ KB",
+		"icons": {
+			"16": "images/16px.png",
+			"48": "images/48px.png",
+			"128": "images/128px.png"
+		}
 	},
 	"permissions": [
 		"tabs",
